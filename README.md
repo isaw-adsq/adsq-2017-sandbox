@@ -1,2 +1,2 @@
 # adsq-2017-sandbox 
-Vrious for 2017.
+Various for 2017.
